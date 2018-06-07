@@ -33,7 +33,7 @@ def usage():
     print("...")
     print()
     print("ex:")
-    print('  ./birc.py -s chat.freenode.net -p 6667 -n blipblop -c channel_file -d "blip blop"')
+    print('  ./iBot -s chat.freenode.net -p 6667 -n blipblop -c channel_file -d "blip blop"')
     print("with channel_file:")
     print("#archlinux\\n")
     print("#arch-fr-off\\n")
