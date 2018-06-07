@@ -24,7 +24,7 @@ def usage():
     usage
     """
     print("usage:")
-    print("  ./birc.py -s/--server server -p/--port port -n/--nick \
+    print("  ./iBot -s/--server server -p/--port port -n/--nick \
 -c/--channels channels -d/--description desc")
     print()
     print("`channels` should be a file containing desired channels following this format:")
