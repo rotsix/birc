@@ -1,4 +1,4 @@
-# birc
+# iBot
 Simple IRC bot, using Python!
 
 ## Installation
@@ -7,7 +7,7 @@ Copy it in your `$PATH`.
 ## Usage
 
 ```
-./birc.py [OPTIONS]
+./iBot [OPTIONS]
     -s/--server SERVER
     -p/--port PORT
     -n/--nick NICK
